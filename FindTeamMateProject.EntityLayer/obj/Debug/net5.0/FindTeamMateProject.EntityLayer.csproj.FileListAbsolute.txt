@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\UpSchoolBootcamp\FindTeamMateProject.UILayer\FindTeamMateProject.EntityLayer\bin\Debug\net5.0\FindTeamMateProject.EntityLayer.deps.json
+C:\Users\User\Desktop\UpSchoolBootcamp\FindTeamMateProject.UILayer\FindTeamMateProject.EntityLayer\bin\Debug\net5.0\FindTeamMateProject.EntityLayer.runtimeconfig.json
+C:\Users\User\Desktop\UpSchoolBootcamp\FindTeamMateProject.UILayer\FindTeamMateProject.EntityLayer\bin\Debug\net5.0\FindTeamMateProject.EntityLayer.runtimeconfig.dev.json
+C:\Users\User\Desktop\UpSchoolBootcamp\FindTeamMateProject.UILayer\FindTeamMateProject.EntityLayer\bin\Debug\net5.0\FindTeamMateProject.EntityLayer.dll
+C:\Users\User\Desktop\UpSchoolBootcamp\FindTeamMateProject.UILayer\FindTeamMateProject.EntityLayer\bin\Debug\net5.0\FindTeamMateProject.EntityLayer.pdb
+C:\Users\User\Desktop\UpSchoolBootcamp\FindTeamMateProject.UILayer\FindTeamMateProject.EntityLayer\obj\Debug\net5.0\FindTeamMateProject.EntityLayer.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\UpSchoolBootcamp\FindTeamMateProject.UILayer\FindTeamMateProject.EntityLayer\obj\Debug\net5.0\FindTeamMateProject.EntityLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\UpSchoolBootcamp\FindTeamMateProject.UILayer\FindTeamMateProject.EntityLayer\obj\Debug\net5.0\FindTeamMateProject.EntityLayer.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\UpSchoolBootcamp\FindTeamMateProject.UILayer\FindTeamMateProject.EntityLayer\obj\Debug\net5.0\FindTeamMateProject.EntityLayer.AssemblyInfo.cs
+C:\Users\User\Desktop\UpSchoolBootcamp\FindTeamMateProject.UILayer\FindTeamMateProject.EntityLayer\obj\Debug\net5.0\FindTeamMateProject.EntityLayer.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\UpSchoolBootcamp\FindTeamMateProject.UILayer\FindTeamMateProject.EntityLayer\obj\Debug\net5.0\FindTeamMateProject.EntityLayer.dll
+C:\Users\User\Desktop\UpSchoolBootcamp\FindTeamMateProject.UILayer\FindTeamMateProject.EntityLayer\obj\Debug\net5.0\refint\FindTeamMateProject.EntityLayer.dll
+C:\Users\User\Desktop\UpSchoolBootcamp\FindTeamMateProject.UILayer\FindTeamMateProject.EntityLayer\obj\Debug\net5.0\FindTeamMateProject.EntityLayer.pdb
+C:\Users\User\Desktop\UpSchoolBootcamp\FindTeamMateProject.UILayer\FindTeamMateProject.EntityLayer\obj\Debug\net5.0\FindTeamMateProject.EntityLayer.genruntimeconfig.cache
+C:\Users\User\Desktop\UpSchoolBootcamp\FindTeamMateProject.UILayer\FindTeamMateProject.EntityLayer\obj\Debug\net5.0\ref\FindTeamMateProject.EntityLayer.dll
